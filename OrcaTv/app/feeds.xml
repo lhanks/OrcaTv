@@ -1,0 +1,151 @@
+﻿<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>News : NPR</title>
+		<link>http://www.npr.org/templates/story/story.php?storyId=1001</link>
+		<description>NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events.</description>
+		<language>en</language>
+		<copyright>Copyright 2017 NPR - For Personal Use Only</copyright>
+		<generator>NPR API RSS Generator 0.94</generator>
+		<lastBuildDate>Thu, 14 Sep 2017 18:42:00 -0400</lastBuildDate>
+		<image>
+			<url>https://media.npr.org/images/stations/nprone_logos/npr.png?s=200</url>
+			<title>News</title>
+			<link>http://www.npr.org/templates/story/story.php?storyId=1001</link>
+		</image>
+		<item>
+			<title>President Trump Stands By Original Charlottesville Remarks</title>
+			<description>The president was heavily criticized when he said counterprotesters in Charlottesville, Va., were to blame right along with white supremacists. Now he says more people are seeing it his way.</description>
+			<pubDate>Thu, 14 Sep 2017 18:42:00 -0400</pubDate>
+			<link>http://www.npr.org/2017/09/14/551069462/president-trump-stands-by-original-charlottesville-remarks?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/2017/09/14/551069462/president-trump-stands-by-original-charlottesville-remarks?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-847028988_wide-aeac55d8feb49ea3a8e97a502496499210fa4ef8.jpg?s=600' alt='President Trump speaks to the press onboard Air Force One while flying back to Andrews Air Force Base from Florida on Thursday.'/><p>The president was heavily criticized when he said counterprotesters in Charlottesville, Va., were to blame right along with white supremacists. Now he says more people are seeing it his way.</p><p>(Image credit: Brendan Smialowski/AFP/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=551069462' />]]></content:encoded>
+			<dc:creator>Tamara Keith</dc:creator>
+		</item>
+		<item>
+			<title>Conservatives Fume Over DACA Deal As Trump Tries To Mollify His Base </title>
+			<description>Radio hosts and sites like Breitbart were livid over the possibility that Trump made a deal with Democrats. But he continues to insist his border wall will still get built and he's not capitulating.</description>
+			<pubDate>Thu, 14 Sep 2017 17:51:00 -0400</pubDate>
+			<link>http://www.npr.org/2017/09/14/551053707/conservatives-fume-over-daca-deal-as-trump-tries-to-mollify-his-base?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/2017/09/14/551053707/conservatives-fume-over-daca-deal-as-trump-tries-to-mollify-his-base?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-847032358-1-_wide-b10f81f25c531fc5fc005b4bafd5a5ccd897db33.jpg?s=600' alt='President Trump speaks to the press at the White House on Thursday upon returning from Florida after surveying damage from Hurricane Irma.'/><p>Radio hosts and sites like Breitbart were livid over the possibility that Trump made a deal with Democrats. But he continues to insist his border wall will still get built and he's not capitulating.</p><p>(Image credit: Nicholas Kamm/AFP/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=551053707' />]]></content:encoded>
+			<dc:creator>Jessica Taylor</dc:creator>
+		</item>
+		<item>
+			<title>White House That Often Talks Tough On Crime Hosts Advocates For Former Inmates</title>
+			<description>The Trump White House welcomed elected officials, faith leaders and nonprofits to discuss ways to help former inmates return to their communities and find jobs, housing and educational opportunities.</description>
+			<pubDate>Thu, 14 Sep 2017 17:25:32 -0400</pubDate>
+			<link>http://www.npr.org/2017/09/14/551053292/white-house-that-often-talks-tough-on-crime-hosts-advocates-for-former-inmates?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/2017/09/14/551053292/white-house-that-often-talks-tough-on-crime-hosts-advocates-for-former-inmates?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-822689532_wide-bc5d9505a307017544d70596c9d58692bd7e1ac9.jpg?s=600' alt='An exterior view of the U.S. Department of Justice headquarters in Washington, D.C., in July. Members of the DOJ were among those who attended a roundtable on Thursday about the criminal justice system and helping ex-inmates re-enter into society.'/><p>The Trump White House welcomed elected officials, faith leaders and nonprofits to discuss ways to help former inmates return to their communities and find jobs, housing and educational opportunities.</p><p>(Image credit: Drew Angerer/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=551053292' />]]></content:encoded>
+			<dc:creator>Carrie Johnson</dc:creator>
+		</item>
+		<item>
+			<title>The Virgin Islands, After Irma: 'It Was Like Stepping Onto Another Planet'</title>
+			<description>In the U.S. and British territories, residents tell of winds that could rattle your bones — and of an aftermath like a "war zone." Here are portraits of the devastation, in the survivors' own words.</description>
+			<pubDate>Thu, 14 Sep 2017 17:23:00 -0400</pubDate>
+			<link>http://www.npr.org/sections/thetwo-way/2017/09/14/550940009/the-virgin-islands-after-irma-it-was-like-stepping-onto-another-planet?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/thetwo-way/2017/09/14/550940009/the-virgin-islands-after-irma-it-was-like-stepping-onto-another-planet?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-846471884_wide-0f64bb45aefc326a0ac05f8c7714ca6ce43292a2.jpg?s=600' alt='The sun glares down on a severely damaged apartment unit in a St. Thomas high-rise on Tuesday. Many residents say they lost everything to the Category 5 storm, and days later they're still grappling with how to respond to the rampant destruction.'/><p>In the U.S. and British territories, residents tell of winds that could rattle your bones — and of an aftermath like a "war zone." Here are portraits of the devastation, in the survivors' own words.</p><p>(Image credit: Michael Nagle/Bloomberg via Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=550940009' />]]></content:encoded>
+			<dc:creator>Colin Dwyer</dc:creator>
+		</item>
+		<item>
+			<title>Service Members Injured In Two Training Incidents</title>
+			<description>The unrelated incidents in California and North Carolina have left several service members hospitalized. Five Marines were in critical condition.</description>
+			<pubDate>Thu, 14 Sep 2017 17:20:20 -0400</pubDate>
+			<link>http://www.npr.org/sections/thetwo-way/2017/09/14/550963164/service-members-injured-in-two-training-incidents?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/thetwo-way/2017/09/14/550963164/service-members-injured-in-two-training-incidents?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/ap_07042408352_wide-25978b7201e6d434c5d8f9813f38746ffeb11848.jpg?s=600' alt='Eight soldiers were wounded Thursday during a training incident at Fort Bragg, N.C. It came just one day after a separate incident at Camp Pendleton, Calif., left 15 Marines wounded.'/><p>The unrelated incidents in California and North Carolina have left several service members hospitalized. Five Marines were in critical condition.</p><p>(Image credit: Gerry Broome/ASSOCIATED PRESS)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=550963164' />]]></content:encoded>
+			<dc:creator>Amy Held</dc:creator>
+		</item>
+		<item>
+			<title>Get Ready! Medicare Will Mail New Cards to 60 Million People</title>
+			<description>The federal health program for seniors and the disabled is removing Social Security numbers from the ID cards of 60 million people in an effort to prevent identity theft</description>
+			<pubDate>Thu, 14 Sep 2017 17:19:00 -0400</pubDate>
+			<link>http://www.npr.org/sections/health-shots/2017/09/14/551053616/get-ready-medicare-will-mail-new-cards-to-60-million-people?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/health-shots/2017/09/14/551053616/get-ready-medicare-will-mail-new-cards-to-60-million-people?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/ap_17256793516541_wide-5fc1c34344605e52841928411177f41986777a38.jpg?s=600' alt='The new Medicare cards, right, will not use Social Security numbers for identification. Instead they will have random sequences of letters and numbers.'/><p>The federal health program for seniors and the disabled is removing Social Security numbers from the ID cards of 60 million people in an effort to prevent identity theft</p><p>(Image credit: Centers for Medicare & Medicaid Services /AP)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=551053616' />]]></content:encoded>
+			<dc:creator>Alison Kodjak</dc:creator>
+		</item>
+		<item>
+			<title>Good News For Snow Leopards, Bad News For Ash Trees</title>
+			<description>Snow leopards are no longer on the verge of extinction, a new assessment found. However, the situation is looking dire for five species of ash trees, now listed as "Critically Endangered."</description>
+			<pubDate>Thu, 14 Sep 2017 17:12:43 -0400</pubDate>
+			<link>http://www.npr.org/sections/thetwo-way/2017/09/14/550983755/good-news-for-snow-leopards-bad-news-for-ash-trees?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/thetwo-way/2017/09/14/550983755/good-news-for-snow-leopards-bad-news-for-ash-trees?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/ap_17255688233269_wide-16cdb221b7ca7b19b77be77f7574af4fae833fbd.jpg?s=600' alt='Two snow leopard cubs play in their enclosure at the Los Angeles Zoo on Tuesday during their public debut.'/><p>Snow leopards are no longer on the verge of extinction, a new assessment found. However, the situation is looking dire for five species of ash trees, now listed as "Critically Endangered."</p><p>(Image credit: Richard Vogel/AP)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=550983755' />]]></content:encoded>
+			<dc:creator>Merrit Kennedy</dc:creator>
+		</item>
+		<item>
+			<title>After Equifax Data Breach, Consumers Are Largely On Their Own</title>
+			<description>The credit-rating company last week said it was hacked, leaving 143 million consumers' personal information exposed. Equifax now faces lawsuits and investigations. Read tips on safeguarding your data.</description>
+			<pubDate>Thu, 14 Sep 2017 16:34:00 -0400</pubDate>
+			<link>http://www.npr.org/2017/09/14/550949718/after-equifax-data-breach-consumers-are-largely-on-their-own?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/2017/09/14/550949718/after-equifax-data-breach-consumers-are-largely-on-their-own?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/istock-545100056_wide-982560cc8e8c9c05273f40480c44d9724a1dab8e.jpg?s=600' alt='Massachusetts Attorney General Maura Healey, who plans to sue Equifax, called the breach "the most brazen failure to protect consumer data we have ever seen."'/><p>The credit-rating company last week said it was hacked, leaving 143 million consumers' personal information exposed. Equifax now faces lawsuits and investigations. Read tips on safeguarding your data.</p><p>(Image credit: bernie_photo/iStock)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=550949718' />]]></content:encoded>
+			<dc:creator>Yuki Noguchi</dc:creator>
+		</item>
+		<item>
+			<title>Let Them Eat Rabbit Is Venezuelan President's Response To Food Shortages</title>
+			<description>To combat chronic food shortages in his country, President Nicolas Maduro is trying to convince Venezuelans that cottontails are a good source of protein. The plan has been met with much contempt.</description>
+			<pubDate>Thu, 14 Sep 2017 16:29:00 -0400</pubDate>
+			<link>http://www.npr.org/sections/parallels/2017/09/14/551026492/let-them-eat-rabbit-is-venezuelan-presidents-response-to-food-shortages?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/parallels/2017/09/14/551026492/let-them-eat-rabbit-is-venezuelan-presidents-response-to-food-shortages?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-10141026_wide-939f0e77116509916f0291c82649203e6f49c19f.jpg?s=600' alt='In an effort to combat chronic food shortages, President Nicolas Maduro and his ministers are embarking on a campaign to convince Venezuelans to eat rabbits.'/><p>To combat chronic food shortages in his country, President Nicolas Maduro is trying to convince Venezuelans that cottontails are a good source of protein. The plan has been met with much contempt.</p><p>(Image credit: GK Hart/Vikki Hart/The Image Bank/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=551026492' />]]></content:encoded>
+			<dc:creator>Philip Reeves</dc:creator>
+		</item>
+		<item>
+			<title>California Lawmakers Debate 100 Percent Clean Energy Mandate</title>
+			<description>To some, it's a chance for the state to cement its environmental leadership as the Trump administration rolls back Obama-era climate change programs. </description>
+			<pubDate>Thu, 14 Sep 2017 16:15:00 -0400</pubDate>
+			<link>http://www.npr.org/2017/09/14/551046066/california-lawmakers-to-vote-on-100-percent-clean-energy-mandate?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/2017/09/14/551046066/california-lawmakers-to-vote-on-100-percent-clean-energy-mandate?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/ap_090915051685_wide-0e8349b9b900919cd2395f79d91960e59226c116.jpg?s=600' alt='A solar energy panel is lifted into place in a solar energy field at the Sacramento Municipal Utility District in Rancho Cordova, Calif.'/><p>To some, it's a chance for the state to cement its environmental leadership as the Trump administration rolls back Obama-era climate change programs. </p><p>(Image credit: Rich Pedroncelli/AP)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=551046066' />]]></content:encoded>
+			<dc:creator>Lauren Sommer</dc:creator>
+		</item>
+		<item>
+			<title>Efforts To Prevent Misuse Of Biomedical Research Fall Short</title>
+			<description>The National Academies of Sciences says not enough has been done to keep legitimate research on pathogens and toxins from being misappropriated and turned into biological weapons.</description>
+			<pubDate>Thu, 14 Sep 2017 15:04:00 -0400</pubDate>
+			<link>http://www.npr.org/sections/health-shots/2017/09/14/551002229/efforts-to-prevent-misuse-of-biomedical-research-fall-short?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/health-shots/2017/09/14/551002229/efforts-to-prevent-misuse-of-biomedical-research-fall-short?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-680792931_wide-9cd44352ab5c15661d10cdb7d72bf8a2202da842.jpg?s=600' alt='Experiments that showed how to make the H5N1 bird flu virus more contagious raised concern about malicious misuse of laboratory research.'/><p>The National Academies of Sciences says not enough has been done to keep legitimate research on pathogens and toxins from being misappropriated and turned into biological weapons.</p><p>(Image credit: Science Photo Library/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=551002229' />]]></content:encoded>
+			<dc:creator>Nell Greenfieldboyce</dc:creator>
+		</item>
+		<item>
+			<title>Florida Nursing Home Case: Many Questions, And Few Answers, After 8 Patients Die</title>
+			<description>The Rehabilitation Center at Hollywood Hills never lost power — but a transformer that drove its air conditioning unit was knocked out, leaving residents vulnerable to the heat and humidity.</description>
+			<pubDate>Thu, 14 Sep 2017 14:07:00 -0400</pubDate>
+			<link>http://www.npr.org/sections/thetwo-way/2017/09/14/550996932/8-die-at-florida-nursing-home-after-irma-leaving-a-host-of-questions?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/thetwo-way/2017/09/14/550996932/8-die-at-florida-nursing-home-after-irma-leaving-a-host-of-questions?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-846571020_wide-92d48def5994ee8f63925552280723e8fc900761.jpg?s=600' alt='Police surround the Rehabilitation Center at Hollywood Hills, which had no air conditioning after Hurricane Irma knocked out a transformer, in Hollywood, Fla.'/><p>The Rehabilitation Center at Hollywood Hills never lost power — but a transformer that drove its air conditioning unit was knocked out, leaving residents vulnerable to the heat and humidity.</p><p>(Image credit: John McCall/Sun Sentinel/TNS via Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=550996932' />]]></content:encoded>
+			<dc:creator>Bill Chappell</dc:creator>
+		</item>
+		<item>
+			<title>Fire Kills At Least 23 At Malaysian School Dormitory With Barred Windows</title>
+			<description>"We wanted to help others," a survivor tells Reuters. "There was nothing we could do." The victims were mostly children whose escape was blocked.</description>
+			<pubDate>Thu, 14 Sep 2017 13:54:00 -0400</pubDate>
+			<link>http://www.npr.org/sections/thetwo-way/2017/09/14/550934240/fire-kills-at-least-23-at-malaysian-school-dormitory-with-barred-windows?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/thetwo-way/2017/09/14/550934240/fire-kills-at-least-23-at-malaysian-school-dormitory-with-barred-windows?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/ap_17257130236556_wide-d1d616ccb5a934bca85e1b147c808a892e1d0e9b.jpg?s=600' alt='A forensic police officer investigates a dormitory window at a religious school in Malaysia after a fire that killed about two dozen people Thursday.'/><p>"We wanted to help others," a survivor tells Reuters. "There was nothing we could do." The victims were mostly children whose escape was blocked.</p><p>(Image credit: Daniel Chan/AP)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=550934240' />]]></content:encoded>
+			<dc:creator>Amy Held</dc:creator>
+		</item>
+		<item>
+			<title>Visiting Florida, Trump Praises 'Incredible' First Responders, State Officials</title>
+			<description>"It's a team like very few people have seen," Trump said of Florida and federal officials.</description>
+			<pubDate>Thu, 14 Sep 2017 13:23:07 -0400</pubDate>
+			<link>http://www.npr.org/2017/09/14/550972917/visiting-florida-trump-praises-incredible-first-responders-state-officials?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/2017/09/14/550972917/visiting-florida-trump-praises-incredible-first-responders-state-officials?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/14/gettyimages-846961806_wide-cc23852b179747db996f4db300e69ccbd4e4c05d.jpg?s=600' alt='President Trump tours a neighborhood on Thursday in Naples, Fla., affected by Hurricane Irma.'/><p>"It's a team like very few people have seen," Trump said of Florida and federal officials.</p><p>(Image credit: Brendan Smialowski/AFP/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=550972917' />]]></content:encoded>
+			<dc:creator>Amita Kelly</dc:creator>
+		</item>
+		<item>
+			<title>Warriors Against Waste: These Restaurants And Bars Are Aiming For Zero</title>
+			<description>Restaurateurs are challenging themselves to reduce the staggering amount of food waste that the industry generates. But can any viable business generate zero waste?</description>
+			<pubDate>Thu, 14 Sep 2017 13:11:00 -0400</pubDate>
+			<link>http://www.npr.org/sections/thesalt/2017/09/14/548966458/warriors-against-waste-these-restaurants-and-bars-are-aiming-for-zero?utm_medium=RSS&amp;utm_campaign=news</link>
+			<guid>http://www.npr.org/sections/thesalt/2017/09/14/548966458/warriors-against-waste-these-restaurants-and-bars-are-aiming-for-zero?utm_medium=RSS&amp;utm_campaign=news</guid>
+			<content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2017/09/13/silo3_wide-4a95ef55331eb1ad941d31d6e8f671a41d7b5630.jpg?s=600' alt='Chef Douglas McMaster is committed to a "zero waste" ethos in his restaurants. Here, he plates up his creations at Silo, his flagship restaurant, in Brighton, England, about an hour south of London.'/><p>Restaurateurs are challenging themselves to reduce the staggering amount of food waste that the industry generates. But can any viable business generate zero waste?</p><p>(Image credit: Xavier Buendia/Courtesy of Doug McMaster)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=548966458' />]]></content:encoded>
+			<dc:creator>Maanvi Singh</dc:creator>
+		</item>
+	</channel>
+</rss>

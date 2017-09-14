@@ -185,14 +185,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\feeds.xml" />
+    <Content Include="app\_module.js" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
     <Content Include="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
@@ -215,12 +215,13 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Scripts\jquery-1.10.2.js" />
-    <Content Include="Scripts\jquery-1.10.2.min.js" />
-    <Content Include="Scripts\modernizr-2.6.2.js" />
-    <Content Include="Scripts\respond.js" />
-    <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\lib\xmlToJSON.js" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\test\assets\test.css" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\test\lib\jasmine-1.3.0\jasmine-html.js" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\test\lib\jasmine-1.3.0\jasmine.css" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\test\lib\jasmine-1.3.0\jasmine.js" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\test\SpecRunner.html" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\test\spec\xmlToJSONSpec.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -251,7 +252,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\bower.json" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\LICENSE" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\package.json" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\README.md" />
+    <Content Include="Scripts\xmlToJSON-1.3.2\test\lib\jasmine-1.3.0\MIT.LICENSE" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
