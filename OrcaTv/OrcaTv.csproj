@@ -185,6 +185,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\frames.html">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="app\feedPlayer2.html">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="app\feedPlayer.html">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="app\feeds.xml" />
     <Content Include="app\_module.js" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
